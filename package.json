@@ -1,13 +1,13 @@
 {
   "name": "bantuin-backend",
   "version": "1.0.0",
-  "description": "Backend Bantuin - Auto Transfer 90% Tukang/Guru + 10% Bantuin via Xendit",
+  "description": "Backend Bantuin",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "engines": {
-    "node": 22.x"
+    "node": "22.x"
   },
   "dependencies": {
     "cors": "^2.8.5",
